@@ -1,5 +1,5 @@
 ﻿,HOMO - 1,HOMO,LUMO,LUMO + 1,SMILES String
-Lithium benzoate,-9.1753,-9.0876,0.9016,1.0718,"['[Li+].C1=CC=C(C=C1)C(=O)[O-]', '', '', '']"
+Lithium benzoate,-9.1753,-9.0876,0.9016,1.0718,['[Li+].C1=CC=C(C=C1)C(=O)[O-]']
 DBN,-8.8710,-8.0247,2.5937,3.1774,C1CC2=NCCCN2C1
 ZnC6F52,-9.5561,-9.5322,0.0302,0.0640,[C-]1=C(C(=C(C(=C1F)F)F)F)F.[C-]1=C(C(=C(C(=C1F)F)F)F)F.[Zn+2]
 BF3,-15.0821,-14.5217,1.6518,1.9057,FB(F)F
